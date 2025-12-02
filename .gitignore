@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.dll
+*.log
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+__MACOSX/
+Thumbs.db
+
+# Envs
+.env
+.venv/
+venv/
+
+# Project large data and outputs
+# Datasets (very large)
+data/
+dataset/
+# SMPL/weights or licensed model files
+save_models/
+*.t7
+smpl/models/
+*.pkl
+
+# Experiment outputs and caches
+outputs/
+*.npz
+*.npy
+*.pt
+*.pth
+*.ckpt
+
+# Rendered/media
+*.mp4
+*.avi
+*.mov
+*.gif
+*.png
+*.jpg
+*.jpeg
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Build/coverage
+build/
+dist/
+.eggs/
+*.egg-info/
+.coverage
+htmlcov/
