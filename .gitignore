@@ -34,6 +34,7 @@ outputs/**
 !outputs/
 !outputs/**/
 !outputs/**/*.json
+!outputs/**/*.md
 !outputs/.gitkeep
 *.npz
 *.npy
