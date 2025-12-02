@@ -1,0 +1,47 @@
+[
+  {
+    "window_size": 8,
+    "num_windows": 12,
+    "mpjpe": 184.48148667812347,
+    "mpvpe": 185.41261553764343,
+    "accel_variance": 0.00019896736193913966,
+    "accel_mean": 0.02374582178890705,
+    "jerk_metric": 0.008379043686820352,
+    "total_time_s": 0.33609699999942677,
+    "avg_time_per_window_ms": 28.008083333285565,
+    "avg_time_per_frame_ms": 3.5010104166606957,
+    "fps": 285.63182652675783,
+    "avg_peak_memory_mb": 562.0373942057291,
+    "max_peak_memory_mb": 562.0380859375
+  },
+  {
+    "window_size": 16,
+    "num_windows": 6,
+    "mpjpe": 186.62962317466736,
+    "mpvpe": 186.82755529880524,
+    "accel_variance": 0.00016716662503313273,
+    "accel_mean": 0.022853979840874672,
+    "jerk_metric": 0.0073145488467030355,
+    "total_time_s": 0.11342529999819817,
+    "avg_time_per_window_ms": 18.904216666366363,
+    "avg_time_per_frame_ms": 1.1815135416478977,
+    "fps": 846.3720175439255,
+    "avg_peak_memory_mb": 564.1913248697916,
+    "max_peak_memory_mb": 564.19384765625
+  },
+  {
+    "window_size": 32,
+    "num_windows": 3,
+    "mpjpe": 192.38097965717316,
+    "mpvpe": 192.01022386550903,
+    "accel_variance": 0.00016451743431389332,
+    "accel_mean": 0.023431237787008286,
+    "jerk_metric": 0.007021283535958841,
+    "total_time_s": 0.07284119999894756,
+    "avg_time_per_window_ms": 24.280399999649187,
+    "avg_time_per_frame_ms": 0.7587624999890371,
+    "fps": 1317.935454130177,
+    "avg_peak_memory_mb": 568.4952799479166,
+    "max_peak_memory_mb": 568.5048828125
+  }
+]

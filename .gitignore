@@ -30,7 +30,11 @@ smpl/models/
 *.pkl
 
 # Experiment outputs and caches
-outputs/
+outputs/**
+!outputs/
+!outputs/**/
+!outputs/**/*.json
+!outputs/.gitkeep
 *.npz
 *.npy
 *.pt
